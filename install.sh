@@ -5,7 +5,7 @@ apt install byobu -y
 apt install tor -y
 mkdir -p ~/tools
 cd ~/tools
-git clone https://github.com/EmpireProject/Empire.git
+sudo apt install powershell-empire
 git clone https://github.com/its-a-feature/Apfell   ## https://docs.apfell.net/installation
 git clone https://github.com/sensepost/goDoH.git
 git clone https://github.com/zerosum0x0/koadic.git
